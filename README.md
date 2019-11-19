@@ -7,6 +7,7 @@ First [`npm i -g angular-cli-ghpages`](https://github.com/angular-schule/angular
 
     ng build --prod
     cp README.md dist/compilers-www
+    printf 'compilers.com.au\n' >> dist/compilers-www/CNAME
     ngh --dir='dist/compilers-www' --repo='https://github.com/codegen-driven-dev/codegen-driven-dev.github.io' --branch='master' --message="$(git log -1 --pretty='%B')"
 
 ## Install
