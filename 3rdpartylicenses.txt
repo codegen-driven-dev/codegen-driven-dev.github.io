@@ -23,6 +23,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+@angular/animations
+MIT
+
 @angular/cdk
 MIT
 The MIT License
@@ -54,11 +57,14 @@ MIT
 @angular/core
 MIT
 
-@angular/flex-layout
+@angular/forms
+MIT
+
+@angular/material
 MIT
 The MIT License
 
-Copyright (c) 2020 Google LLC.
+Copyright (c) 2021 Google LLC.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
